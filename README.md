@@ -2,55 +2,46 @@
 
 # Project Name
 
+Portfolio 
+
 > Description the project.
+This is my portfolio website which shows my various projects and showcases my skillsets and mastery of web development. it is created with html, css and javascript and is also mobile responsive.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- Css
+- Javascript
+- Linter
+- Github
 
-## Live Demo (if available)
+## Portfolio Live Version 
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://efiamotu-1.github.io/Portfolio-Mobile-Version-skeleton/)
 
 ## Authors
 
-👤 **Author1**
+👤 **Habeeb Musa Efiamotu**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Efiamotu-1)
+- Twitter: [@twitterhandle](https://twitter.com/EFYAMOTU)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/musa-habeeb/)
 
-👤 **Author2**
+## Contributors
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Tahseen Zahra (owner)**
+
+- GitHub: [@githubhandle](https://github.com/tahseenzahra)
+- Twitter: [@twitterhandle](https://twitter.com/tahseen1zahra)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tahseenzahra/)
+
+👤 **Camilo Vela**
+
+- GitHub: [@Camilovelag](https://github.com/Camilovelag)
+- Twitter: [@camilovelag](https://twitter.com/camilovelag)
+- LinkedIn: [Camilo Vela](https://www.linkedin.com/in/camilovelag/)
+
 
 ## 🤝 Contributing
 
@@ -62,11 +53,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
