@@ -190,7 +190,7 @@ buttonsArray.forEach((button) => {
   button.addEventListener('click', (e) => {
     const { id } = e.target;
 
-    openModal();
+    openModal(id);
     const closeModal = document.getElementById('modal-close');
     closeModal.addEventListener('click', () => {
       modal.style.display = 'none';
